@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Learning Management System",
+    "company": "Treosoft IT Solutions",
+    "duration": "6 months",
+    "stack": [
+      "React 18",
+      "Redux",
+      "Typescript",
+      "React Query",
+      "TanStack Table",
+      "React-Hook-Form"
+    ]
+  },
+  {
+    "name": "Environment Management System",
+    "company": "Treosoft IT Solutions",
+    "duration": "1.6 years",
+    "stack": ["React 18", "Redux", "Ant Design", "chart.js", "sockets"]
+  },
+  {
+    "name": "Public Audio System",
+    "company": "Treosoft IT Solutions",
+    "duration": "1.6 years",
+    "stack": ["React 18", "Redux", "Ant Design", "chart.js", "worklet node"]
+  },
+  {
+    "name": "Emergency Call Box System",
+    "company": "Treosoft IT Solutions",
+    "duration": "1.6 years",
+    "stack": ["React 18", "Redux", "Ant Design", "chart.js", "worklet node"]
+  }
+]

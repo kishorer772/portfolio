@@ -22,12 +22,25 @@
     "name": "Public Audio System",
     "company": "Treosoft IT Solutions",
     "duration": "1.6 years",
-    "stack": ["React 18", "Redux", "Ant Design", "chart.js", "worklet node"]
+    "stack": [
+      "React 18",
+      "Redux",
+      "Ant Design",
+      "chart.js",
+      "sockets",
+      "worklet node"
+    ]
   },
   {
     "name": "Emergency Call Box System",
     "company": "Treosoft IT Solutions",
     "duration": "1.6 years",
     "stack": ["React 18", "Redux", "Ant Design", "chart.js", "worklet node"]
+  },
+  {
+    "name": "SmartCity",
+    "company": "Treosoft IT Solutions",
+    "duration": "3 months",
+    "stack": ["Javascript", "Leaflet", "Jquery", "Lodash", "Sockets", "Java"]
   }
 ]

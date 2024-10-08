@@ -8,7 +8,12 @@ export default function Certificate(props: ICertificateProps) {
       <Text>{props.name}</Text>
       <Text>{props.issuedOn}</Text>
 
-      <button className="flex items-center justify-end gap-2 bg-blue-300 hover:bg-blue-400 duration-500 px-3 py-2 rounded-lg hover:text-white">
+      <button
+        className="flex items-center justify-end gap-2 bg-blue-300 hover:bg-blue-400 duration-500 px-3 py-2 rounded-lg hover:text-white"
+        onClick={() => {
+          window.open(props.link);
+        }}
+      >
         <span>View</span>
         <FaChevronRight />
       </button>
